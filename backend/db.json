@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "sanchez",
+      "email": "",
+      "password": "123",
+      "pfp": "",
+      "balance": 702,
+      "exits": "300"
+    },
+    {
+      "id": "sanchez2",
+      "email": "sanchez2",
+      "password": "123",
+      "pfp": "",
+      "balance": "0.00",
+      "exits": []
+    },
+    {
+      "id": "sanchez3",
+      "email": "sanchez3@email.com",
+      "password": "123",
+      "pfp": "",
+      "balance": "0.00",
+      "exits": ""
+    },
+    {
+      "id": "sanchez33",
+      "email": "sanchez33@gmail.com",
+      "password": "123",
+      "pfp": "",
+      "balance": -50,
+      "exits": "750"
+    },
+    {
+      "id": "notsanchez",
+      "email": "notsanchez@email.com",
+      "password": "123",
+      "pfp": "",
+      "balance": -100,
+      "exits": "250"
+    }
+  ]
+}
