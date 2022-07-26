@@ -4,7 +4,7 @@ Carteira digital com interface igual da Nubank, com funcionalidades de criar sua
 
 <br />
 
-# 📸 Overview
+# 📸 Fotos
 
 ![Preview app](./assets/gifapp.gif)
 <br />
@@ -12,7 +12,7 @@ Carteira digital com interface igual da Nubank, com funcionalidades de criar sua
 ![Dashboard page](./assets/shot2.png)
 ![Home page](./assets/shot3.png)
 
-# 💻 Project
+# 💻 O Projeto
 
 O projeto é uma carteira digital aonde tentei me inspirar na interface do nubank, com as funcionalidades de criação de usuario, informações e controle de entrada e saída de saldo. 
 
