@@ -9,8 +9,8 @@ Carteira digital com interface igual da Nubank, com funcionalidades de criar sua
 ![Preview app](./assets/gifapp.gif)
 <br />
 ![Login page](./assets/shot.png)
-![Dashboard page](./assets/shot2.png)
-![Home page](./assets/shot3.png)
+![Dashboard page](./assets/shot3.png)
+![Home page](./assets/shot2.png)
 
 # 💻 O Projeto
 
